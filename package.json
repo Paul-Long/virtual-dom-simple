@@ -1,0 +1,30 @@
+{
+  "name": "virtual-dom-simple",
+  "version": "1.0.0",
+  "description": "virtual dom",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul-Long/virtual-dom-simple.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paul-Long/virtual-dom-simple/issues"
+  },
+  "homepage": "https://github.com/Paul-Long/virtual-dom-simple#readme",
+  "dependencies": {
+    "typescript": "^4.5.5",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "@types/react": "^17.0.33",
+    "@types/react-dom": "^17.0.10",
+    "@vitejs/plugin-react": "^1.0.7",
+    "vite": "^2.8.0"
+  }
+}
